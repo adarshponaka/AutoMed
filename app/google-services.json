@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "554929879617",
+    "firebase_url": "https://medical-injector.firebaseio.com",
+    "project_id": "medical-injector",
+    "storage_bucket": "medical-injector.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554929879617:android:d9e3fe9b5e425e80",
+        "android_client_info": {
+          "package_name": "adarsh.medicalinjector"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "554929879617-erk2m1qpdu549cnd99doih10fhaunt1p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "adarsh.medicalinjector",
+            "certificate_hash": "f88ae6b1e2c1d436bc9c5e8fb08f2a7a4c741ac9"
+          }
+        },
+        {
+          "client_id": "554929879617-6m0q1hhqtnngtkg9224qc5tii7ml75as.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzdtHj7m08o8wn97b7x7EAq3PbYFOPb6c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "554929879617-6m0q1hhqtnngtkg9224qc5tii7ml75as.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
